@@ -29,16 +29,16 @@ module.exports = {
                 en: {
                         noInput: "× Baby, please provide a video name.",
                         noResult: "× No results found.",
-                        select: "𝐒𝐞𝐥𝐞𝐜𝐭 𝐚 𝐯𝐢𝐝𝐞𝐨:\n\n%1• Reply with the number to download",
-                        success: "✅ 𝙃𝙚𝙧𝙚'𝙨 𝙮𝙤𝙪𝙧 𝙫𝙞𝙙𝙚𝙤 𝙗𝙖𝙗𝙮\n\n• 𝐓𝐢𝐭𝐥𝐞: %1",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        select: "𝐒𝐞𝐥𝐞𝐜𝐭 𝐚 𝐯𝐢𝐝𝐞𝐨: Àlï Àkbàr Roku%1• Reply with the number to download",
+                        success: "✅ 𝙃𝙚𝙧𝙚'𝙨 𝙮𝙤𝙪𝙧 𝙫𝙞𝙙𝙚𝙤 𝙗𝙖𝙗𝙮 Àlï Àkbàr Roku• 𝐓𝐢𝐭𝐥𝐞: %1",
+                        error: "× API error: %1. Contact Ali for help.Ali•WhatsApp: 01751730617"
                 },
                 vi: {
                         noInput: "× Cưng ơi, vui lòng cung cấp tên video.",
                         noResult: "× Không tìm thấy kết quả.",
-                        select: "𝐒𝐞𝐥𝐞𝐜𝐭 𝐚 𝐯𝐢𝐝𝐞𝐨:\n\n%1• Phản hồi bằng số để tải xuống",
-                        success: "✅ Video của cưng đây 😘\n\n• 𝐓𝐢êu đề: %1",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        select: "𝐒𝐞𝐥𝐞𝐜𝐭 𝐚 𝐯𝐢𝐝𝐞𝐨: Àlï Àkbàr Roku%1• Phản hồi bằng số để tải xuống",
+                        success: "✅ Video của cưng đây 😘 Àlï Àkbàr Roku• 𝐓𝐢êu đề: %1",
+                        error: "× API error: %1. Contact Ali for help.Ali•WhatsApp: 01751730617"
                 }
         },
 
