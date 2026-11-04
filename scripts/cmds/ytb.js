@@ -12,7 +12,7 @@ module.exports = {
                 name: "ytb",
                 aliases: ["youtube", "yt"],
                 version: "4.0.7",
-                author: "MahMUD",
+                author: "Ali",
                 countDown: 10,
                 role: 0,
                 description: {
